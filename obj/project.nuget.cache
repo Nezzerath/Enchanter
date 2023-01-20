@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZ51M1ecxQ3b5lltuFaGOEV6TVu0WiMszCwMC+8UCS1pC041QyKXL6rBlunNzCk1pVMHNE6QVVvJmgow8vT2tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nezze\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Enchanter\\Enchanter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nezze\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

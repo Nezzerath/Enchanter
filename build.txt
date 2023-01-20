@@ -1,0 +1,3 @@
+displayName = Enchant Class
+author = Nezzerath
+version = 0.1
